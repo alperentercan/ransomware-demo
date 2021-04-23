@@ -1,3 +1,9 @@
+This fork changes the encryption scheme of the original implementation to mimic WannaCry's.
+Also, the documents are replaced with images.
+Finally, the scripts are in a zip file on server which should be delivered to client and extracted there.
+
+
+
 # Ransomware demo
 
 This is a simple demo of ransomware.
